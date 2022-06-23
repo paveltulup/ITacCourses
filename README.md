@@ -1,3 +1,3 @@
 # ITacCourses "Data Science"
-# Tulup Pavel
-# Module 1
+Tulup Pavel
+Module 1
